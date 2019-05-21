@@ -5,4 +5,4 @@ Calculez votre âge en secondes à l’instant actuel à la seconde près.
 
 Fonctions à utiliser :
 - mktime()
-- date()
+- time()
